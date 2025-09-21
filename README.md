@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkptz&label=Profile%20views&color=0e75b6&style=flat" alt="arkptz" /> </p> 
 
-<!--
-**RezediDevelop/RezediDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+<font size =30> I’m currently learning Rust </font>
+# 📫 How to reach me:
+## <a href="https://t.me/PKH_RUSSIAN" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Rezedi" /></a>
+# 💻 Tech Stack:
+## Languages:
+###   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <font size =30> - Jun </font>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other:
+### ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)   
+# 📊 GitHub Stats:
+![](https://github-readme-stats-malk.vercel.app/api?username=arkptz&show_icons=true&theme=gotham)<br/>
+![](https://github-readme-stats-malk.vercel.app/api?username=arkptz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arkptz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats-malk.vercel.app/api/top-langs/?username=arkptz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
