@@ -8,8 +8,6 @@
 ## Languages:
 ###   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <font size =30> - Jun </font>
 
-## Other:
-### ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-malk.vercel.app/api?username=arkptz&show_icons=true&theme=gotham)<br/>
 ![](https://github-readme-stats-malk.vercel.app/api?username=arkptz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
